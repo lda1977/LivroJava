@@ -8,7 +8,7 @@ public class Exemple3 {
         double x; /*  esta instrução declara uma variável de ponto flutuante */
 
         w = 10;
-        x = 10.1;
+        x = 10.0;
 
         System.out.println("O valor original de w:  " + w);
         System.out.println("O valor original de x:  " + x);
